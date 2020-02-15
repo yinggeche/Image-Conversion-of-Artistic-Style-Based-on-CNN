@@ -4,6 +4,11 @@
 1. Converted one random photo into an artistic style painting by remaining the content feature of it and extracting texture feature and color feature from other two different pictures.
 2. Reconstructed the image by using the first 5 convolution layers in VGG Network.
 
+## Result
+![input_color](/input/color_1.png)
+![input_texture](/input/texture.png)
+![input_content](/input/content.png)
+
 ## Libraries
 You need to install:
 1. numpy
