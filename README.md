@@ -5,9 +5,14 @@
 2. Reconstructed the image by using the first 5 convolution layers in VGG Network.
 
 ## Result
+### Color Input
 ![input_color](/input/color_1.png)
+### Texture Input
 ![input_texture](/input/texture.png)
+### Content Input
 ![input_content](/input/content.png)
+### Output
+![output](/output/res_1.png)
 
 ## Libraries
 You need to install:
